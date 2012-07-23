@@ -29,5 +29,6 @@ Push the branch to origin(on GitHub).
 
 	$ git push origin mywork
 
-<!-- I'll write this more later. -->
+Deal with pull request on GitHub.
+Merge pull request(auto merge and apply).
 
