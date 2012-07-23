@@ -5,6 +5,10 @@ Practice repository for Pull Request.
 
 # What I want to do?
 
+I want to practice pull requests.
+
+# Plan
+
 Make this repository on GitHub.
 And then, clone the repository.
 
@@ -25,5 +29,6 @@ Push the branch to origin(on GitHub).
 
 	$ git push origin mywork
 
-<!-- I'll write this more later. -->
+Deal with pull request on GitHub.
+Merge pull request(auto merge and apply).
 
